@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/Lab_01.dir/rotate.c.o  -o Lab_01 
