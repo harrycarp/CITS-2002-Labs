@@ -3,6 +3,8 @@ Lab projects for Systems Programming CITS2002
 
 ## READ THE WIKI FOR SETUP AND TROUBLESHOOTING
 
+-> Link to wiki: https://github.com/harrycarp/CITS2002-Labs/wiki
+
 Basic for running the code:
 
 FOR JETBRAINS CLion (EASY):
