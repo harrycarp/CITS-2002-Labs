@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Leap.dir/main.c.o  -o Leap 
